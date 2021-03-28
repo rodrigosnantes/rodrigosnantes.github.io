@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aef775ed.chunk.css",
+    "main.js": "/static/js/main.55d91287.chunk.js",
+    "main.js.map": "/static/js/main.55d91287.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0cf30f17.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0cf30f17.js.map",
+    "static/js/2.43ef9356.chunk.js": "/static/js/2.43ef9356.chunk.js",
+    "static/js/2.43ef9356.chunk.js.map": "/static/js/2.43ef9356.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.aef775ed.chunk.css.map": "/static/css/main.aef775ed.chunk.css.map",
+    "static/js/2.43ef9356.chunk.js.LICENSE.txt": "/static/js/2.43ef9356.chunk.js.LICENSE.txt",
+    "static/media/banner.css": "/static/media/banner.42e42ac9.jpg",
+    "static/media/git.fbde76a6.svg": "/static/media/git.fbde76a6.svg",
+    "static/media/github-color.7894bcfa.svg": "/static/media/github-color.7894bcfa.svg",
+    "static/media/gmail.bc6851f8.svg": "/static/media/gmail.bc6851f8.svg",
+    "static/media/java.065b0007.svg": "/static/media/java.065b0007.svg",
+    "static/media/javascript.c981b611.svg": "/static/media/javascript.c981b611.svg",
+    "static/media/linkedin.47c4c934.svg": "/static/media/linkedin.47c4c934.svg",
+    "static/media/material-ui.7ddf5107.svg": "/static/media/material-ui.7ddf5107.svg",
+    "static/media/react.0c61afcf.svg": "/static/media/react.0c61afcf.svg",
+    "static/media/vue-dot-js.8ce4e154.svg": "/static/media/vue-dot-js.8ce4e154.svg",
+    "static/media/whatsapp.ee42a38b.svg": "/static/media/whatsapp.ee42a38b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cf30f17.js",
+    "static/js/2.43ef9356.chunk.js",
+    "static/css/main.aef775ed.chunk.css",
+    "static/js/main.55d91287.chunk.js"
+  ]
+}
