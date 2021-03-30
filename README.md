@@ -13,5 +13,4 @@
    <img src="https://github.com/rodrigosnantes/rodrigosnantes.github.io/blob/main/portfolio02.gif" width="400" />
 </h1>
 
-
-LinkeIn -  [rodrigosnantes](https://www.linkedin.com/in/rodrigonantess/)
+- LinkedIn -  [rodrigosnantes](https://www.linkedin.com/in/rodrigonantess/)
